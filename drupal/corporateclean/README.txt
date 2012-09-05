@@ -1,0 +1,1 @@
+These theme background color from header to footer can be modify from the appearance setting.
